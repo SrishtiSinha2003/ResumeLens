@@ -1,17 +1,5 @@
 # ResumeLens Pro
 ### NLP-Based Intelligent Resume Screening, Skill Extraction and Context-Aware Job Matching System
-
-**C. V. Raman Global University — Case Study (Experiential Learning), 2026**
-**Subject:** Natural Language Processing (CS453) · **Semester:** 7th · **Group:** G6_SG_1
-
-| Name | Registration No. |
-|---|---|
-| Anisha Mahto | 2301020223 |
-| Annesha Das | 2301020224 |
-| Shruti Shriya Patra | 2301020286 |
-| Somyakanta Sahu | 2301020292 |
-| Srishti Sinha | 2301020293 |
-
 ---
 
 ## 1. Problem Statement
