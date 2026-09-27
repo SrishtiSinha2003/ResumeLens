@@ -1,0 +1,21 @@
+Ananya Rao
+Email: ananya.rao@example.com
+Phone: 9876543210
+
+Objective
+Backend developer with 3+ years of experience building scalable REST APIs.
+
+Education
+B.Tech in Computer Science, KIIT University, 2019-2023
+
+Experience
+Backend Developer, TechNova Solutions (2021-present)
+- Built REST APIs using Java, Spring Boot and Hibernate
+- Designed MySQL and MongoDB schemas for high-traffic services
+- Used Docker and Jenkins for CI/CD pipelines on AWS
+- Implemented JWT based authentication and authorization
+- Wrote unit tests with JUnit and used Git for version control
+
+Skills
+Java, Spring Boot, Hibernate, REST API, MySQL, MongoDB, Docker, AWS,
+Jenkins, JWT, Git, Data Structures and Algorithms, OOP

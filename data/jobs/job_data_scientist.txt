@@ -1,0 +1,17 @@
+Job Title: Data Scientist - NLP
+
+We are hiring a Data Scientist to build and deploy NLP and machine learning
+models for our product team.
+
+Responsibilities
+- Build NLP pipelines for text classification and information extraction
+- Train and evaluate models using TensorFlow / PyTorch and scikit-learn
+- Use Word2Vec and Transformer based embeddings for semantic similarity
+- Perform feature engineering with pandas and numpy
+- Deploy models to AWS and monitor performance
+
+Requirements
+- Master's degree in Data Science, Computer Science or related field
+- Strong knowledge of Machine Learning, Deep Learning and NLP
+- Experience with spaCy, BERT, scikit-learn
+- Familiarity with Git and reproducible experiment tracking

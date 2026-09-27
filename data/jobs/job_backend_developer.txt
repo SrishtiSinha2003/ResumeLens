@@ -1,0 +1,17 @@
+Job Title: Backend Developer (Java)
+
+We are looking for a motivated Backend Developer to join our engineering team.
+
+Responsibilities
+- Design and build REST APIs using Java and Spring Boot
+- Work with MySQL and MongoDB databases
+- Containerize services using Docker and deploy on AWS
+- Set up CI/CD pipelines with Jenkins
+- Implement secure authentication using JWT and OAuth2
+- Write unit tests with JUnit and follow Git-based workflows
+
+Requirements
+- Bachelor's degree in Computer Science or related field
+- Strong knowledge of Data Structures and Algorithms, OOP
+- 2+ years of experience with Java, Spring Boot, REST API
+- Familiarity with Kubernetes and microservices architecture is a plus

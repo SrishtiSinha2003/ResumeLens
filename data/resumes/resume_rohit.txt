@@ -1,0 +1,22 @@
+Rohit Sharma
+Email: rohit.sharma@example.com
+Phone: 9123456780
+
+Objective
+Data scientist with 2 years of experience in machine learning and NLP.
+
+Education
+M.Sc in Data Science, C. V. Raman Global University, 2021-2023
+B.Sc in Statistics, Utkal University, 2018-2021
+
+Experience
+Data Scientist, InsightWorks Analytics (2023-present)
+- Built NLP pipelines using spaCy, NLTK and Transformers
+- Trained deep learning models with TensorFlow and PyTorch
+- Performed feature engineering with pandas and numpy
+- Used scikit-learn for classification and Word2Vec for embeddings
+- Deployed models on AWS and tracked experiments with Git
+
+Skills
+Python, Machine Learning, Deep Learning, NLP, spaCy, TensorFlow, PyTorch,
+scikit-learn, Pandas, NumPy, Word2Vec, BERT, AWS, Git, Data Structures and Algorithms

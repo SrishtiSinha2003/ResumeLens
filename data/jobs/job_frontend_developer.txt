@@ -1,0 +1,17 @@
+Job Title: Frontend Developer (React)
+
+We are looking for a Frontend Developer to build modern, responsive web
+applications.
+
+Responsibilities
+- Develop UI components using React.js and Redux
+- Style responsive layouts using CSS, Tailwind and Bootstrap
+- Integrate frontend applications with REST APIs
+- Write component tests and use Git for version control
+- Collaborate closely with backend and design teams
+
+Requirements
+- Bachelor's degree in Computer Science or related field
+- 1+ years of experience with JavaScript, React.js, HTML, CSS
+- Good communication and teamwork skills
+- Familiarity with Next.js is a plus

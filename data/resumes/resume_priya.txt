@@ -1,0 +1,20 @@
+Priya Nair
+Email: priya.nair@example.com
+Phone: 9988776655
+
+Objective
+Frontend developer with 1.5 years of experience creating responsive web apps.
+
+Education
+BCA, Bhubaneswar Institute of Technology, 2020-2023
+
+Experience
+Frontend Developer, PixelCraft Studio (2023-present)
+- Developed responsive UIs using React.js, Redux and Tailwind CSS
+- Collaborated with backend team consuming REST APIs
+- Wrote component tests using Jest and used Git for version control
+- Optimized page performance and accessibility
+
+Skills
+JavaScript, React.js, Redux, HTML, CSS, Tailwind, REST API, Git,
+Communication, Teamwork
