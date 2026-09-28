@@ -1,6 +1,7 @@
 """
 evaluate.py
 -----------
+python scripts/evaluate.py  
 Quantitative evaluation + ablation study for ResumeLens.
 
 Run from the project root:
