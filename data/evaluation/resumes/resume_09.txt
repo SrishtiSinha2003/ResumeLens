@@ -1,0 +1,6 @@
+Candidate: Arjun Kapoor
+Profile: Data scientist with predictive modeling experience.
+Skills: Python, Pandas, NumPy, Scikit-learn, XGBoost, statistics, machine learning, SQL, feature engineering, model evaluation.
+Experience: Built classification and regression models and performed feature engineering.
+Projects: Customer churn prediction; demand forecasting.
+Education: M.Sc. Data Science.

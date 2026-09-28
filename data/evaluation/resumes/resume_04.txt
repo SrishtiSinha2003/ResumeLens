@@ -1,0 +1,6 @@
+Candidate: Meera Iyer
+Profile: Data analyst.
+Skills: Python, Pandas, NumPy, SQL, MySQL, Excel, Power BI, Tableau, statistics, data visualization.
+Experience: Cleaned datasets, created dashboards, performed exploratory analysis and wrote SQL reports.
+Projects: Sales analytics dashboard; customer churn analysis.
+Education: B.Sc. Statistics.

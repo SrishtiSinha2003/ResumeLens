@@ -1,0 +1,6 @@
+Candidate: Sana Khan
+Profile: Full-stack JavaScript developer.
+Skills: JavaScript, React, Node.js, Express.js, MongoDB, Mongoose, REST APIs, JWT, HTML, CSS, Git, Docker.
+Experience: Developed full-stack web applications and REST APIs with authentication.
+Projects: Job portal using React/Node/Express/MongoDB; real-time task board.
+Education: B.Tech Computer Science.

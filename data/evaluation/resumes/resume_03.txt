@@ -1,0 +1,6 @@
+Candidate: Rohan Verma
+Profile: Frontend and full-stack developer.
+Skills: JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS, Node.js, Express.js, MongoDB, REST APIs, Git.
+Experience: Developed responsive React applications and Node.js APIs.
+Projects: Travel booking platform with React, Express, MongoDB and Mapbox; analytics dashboard.
+Education: B.Tech Computer Science.

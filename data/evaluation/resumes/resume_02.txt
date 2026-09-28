@@ -1,0 +1,6 @@
+Candidate: Diya Sharma
+Profile: Machine learning engineer with NLP and computer vision experience.
+Skills: Python, NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, NLP, NER, Transformers, Sentence-BERT, OpenCV, Git.
+Experience: Developed classification and NLP pipelines; fine-tuned transformer models and evaluated ML models.
+Projects: Resume text classification; low-light image enhancement.
+Education: B.Tech AI and ML.

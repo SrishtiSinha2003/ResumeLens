@@ -1,0 +1,2 @@
+Role: QA Automation Engineer
+Requirements: Java or Python, Selenium, API testing, JUnit/TestNG or equivalent, SQL, Git, CI/CD.

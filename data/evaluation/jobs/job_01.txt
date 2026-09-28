@@ -1,0 +1,2 @@
+Role: Java Backend Developer
+Requirements: Java, Spring Boot, REST APIs, SQL, PostgreSQL or MySQL, Git, Docker. Backend services, authentication and unit testing preferred.

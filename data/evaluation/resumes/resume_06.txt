@@ -1,0 +1,6 @@
+Candidate: Ananya Rao
+Profile: Python backend developer.
+Skills: Python, Django, Flask, FastAPI, REST APIs, PostgreSQL, SQL, Redis, Celery, Docker, Git.
+Experience: Built backend APIs, asynchronous processing services and database-backed applications.
+Projects: FastAPI/PostgreSQL task API; Redis/Celery notification service.
+Education: B.Tech Computer Science.

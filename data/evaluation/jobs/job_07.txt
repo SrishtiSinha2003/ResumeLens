@@ -1,0 +1,2 @@
+Role: NLP Engineer
+Requirements: Python, NLP, spaCy or similar NLP libraries, NER, Transformers/BERT, sentence embeddings, PyTorch or Hugging Face.

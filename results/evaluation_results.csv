@@ -1,0 +1,51 @@
+resume_id,job_id,resume_file,job_file,relevance,tfidf_score,word2vec_score,semantic_score,skill_coverage,matched_skills,missing_skills,A_tfidf_only,B_tfidf_word2vec,C_tfidf_word2vec_sbert,D_full_resumelens
+resume_01,job_01,resume_01.txt,job_01.txt,2,36.8456,76.9437,68.4243,90.0,"authentication, docker, git, java, mysql, postgresql, spring, spring boot, sql",unit testing,36.8456,54.667,59.5803,68.7062
+resume_01,job_06,resume_01.txt,job_06.txt,1,24.0078,48.3929,51.0583,55.5556,"docker, git, postgresql, redis, sql","django, fastapi, flask, python",24.0078,34.8456,40.6359,45.1118
+resume_01,job_08,resume_01.txt,job_08.txt,1,8.324,35.7176,50.2504,66.6667,"git, java, junit, sql","python, selenium",8.324,20.4989,31.1244,41.7871
+resume_01,job_05,resume_01.txt,job_05.txt,0,3.3806,27.1224,32.8184,28.5714,"docker, github","aws, jenkins, kubernetes, linux, terraform",3.3806,13.9325,20.6775,23.0457
+resume_01,job_02,resume_01.txt,job_02.txt,0,2.638,25.1012,29.1415,0.0,,"computer vision, machine learning, nlp, numpy, pandas, python, pytorch, tensorflow",2.638,12.6216,18.5216,12.9651
+resume_02,job_02,resume_02.txt,job_02.txt,2,30.736,69.5796,71.2513,100.0,"computer vision, machine learning, nlp, numpy, pandas, python, pytorch, tensorflow",,30.736,47.9998,56.3039,69.4127
+resume_02,job_07,resume_02.txt,job_07.txt,2,26.9518,67.5702,61.3862,85.7143,"bert, ner, nlp, python, pytorch, transformers",spacy,26.9518,45.0044,50.8551,61.3128
+resume_02,job_09,resume_02.txt,job_09.txt,1,12.3753,51.6557,48.1647,80.0,"machine learning, numpy, pandas, python",sql,12.3753,29.8332,36.3802,49.4661
+resume_02,job_04,resume_02.txt,job_04.txt,1,3.2919,30.4277,30.002,66.6667,"pandas, python",sql,3.2919,15.3523,20.5843,34.409
+resume_02,job_01,resume_02.txt,job_01.txt,0,1.2833,32.0298,9.4019,10.0,git,"authentication, docker, java, mysql, postgresql, spring, spring boot, sql, unit testing",1.2833,14.9484,12.9675,12.0773
+resume_03,job_03,resume_03.txt,job_03.txt,2,26.2936,61.7109,62.5559,85.7143,"css, git, html, javascript, react, typescript",rest api,26.2936,42.0346,49.3637,60.2688
+resume_03,job_10,resume_03.txt,job_10.txt,2,51.1625,70.5919,74.1049,83.3333,"css, express, express.js, git, html, javascript, mongodb, node, node.js, react","docker, jwt",51.1625,59.7978,64.9075,70.4352
+resume_03,job_06,resume_03.txt,job_06.txt,1,7.9322,37.0184,43.7875,11.1111,git,"django, docker, fastapi, flask, postgresql, python, redis, sql",7.9322,20.8594,29.048,23.6669
+resume_03,job_01,resume_03.txt,job_01.txt,0,6.6175,34.2354,41.3184,10.0,git,"authentication, docker, java, mysql, postgresql, spring, spring boot, sql, unit testing",6.6175,18.8921,26.9015,21.8311
+resume_03,job_09,resume_03.txt,job_09.txt,0,0.0,22.2101,34.0466,0.0,,"machine learning, numpy, pandas, python, sql",0.0,9.8712,18.5052,12.9537
+resume_04,job_04,resume_04.txt,job_04.txt,2,43.5166,65.422,67.5079,100.0,"pandas, python, sql",,43.5166,53.2524,58.3436,70.8405
+resume_04,job_09,resume_04.txt,job_09.txt,1,19.0866,49.2192,63.6086,80.0,"numpy, pandas, python, sql",machine learning,19.0866,32.4789,43.5966,54.5176
+resume_04,job_02,resume_04.txt,job_02.txt,1,4.6924,40.0248,42.6835,37.5,"numpy, pandas, python","computer vision, machine learning, nlp, pytorch, tensorflow",4.6924,20.3957,28.3556,31.0989
+resume_04,job_06,resume_04.txt,job_06.txt,0,7.6149,24.4797,33.0803,22.2222,"python, sql","django, docker, fastapi, flask, git, postgresql, redis",7.6149,15.1103,21.5282,21.7364
+resume_04,job_05,resume_04.txt,job_05.txt,0,0.0,5.7968,15.9401,0.0,,"aws, docker, github, jenkins, kubernetes, linux, terraform",0.0,2.5764,7.3491,5.1444
+resume_05,job_05,resume_05.txt,job_05.txt,2,45.9418,58.8435,76.9561,100.0,"aws, docker, github, jenkins, kubernetes, linux, terraform",,45.9418,51.6759,60.7045,72.4932
+resume_05,job_01,resume_05.txt,job_01.txt,1,2.8929,14.7523,42.229,20.0,"docker, git","authentication, java, mysql, postgresql, spring, spring boot, sql, unit testing",2.8929,8.1637,20.3299,20.2309
+resume_05,job_06,resume_05.txt,job_06.txt,1,5.3956,29.5163,43.8895,33.3333,"docker, git, python","django, fastapi, flask, postgresql, redis, sql",5.3956,16.1159,26.0351,28.2245
+resume_05,job_03,resume_05.txt,job_03.txt,0,0.0,25.7568,34.6395,14.2857,git,"css, html, javascript, react, rest api, typescript",0.0,11.4475,19.7304,18.097
+resume_05,job_09,resume_05.txt,job_09.txt,0,1.7362,26.4342,40.4182,20.0,python,"machine learning, numpy, pandas, sql",1.7362,12.7131,22.6078,21.8254
+resume_06,job_06,resume_06.txt,job_06.txt,2,51.8067,66.1773,78.5498,100.0,"django, docker, fastapi, flask, git, postgresql, python, redis, sql",,51.8067,58.1937,65.4637,75.8246
+resume_06,job_01,resume_06.txt,job_01.txt,1,23.3953,56.4209,51.1387,50.0,"docker, git, mysql, postgresql, sql","authentication, java, spring, spring boot, unit testing",23.3953,38.0733,42.7395,44.9177
+resume_06,job_10,resume_06.txt,job_10.txt,1,8.9874,49.3026,45.9174,16.6667,"docker, git","css, express, express.js, html, javascript, jwt, mongodb, node, node.js, react",8.9874,26.9053,33.6953,28.5867
+resume_06,job_05,resume_06.txt,job_05.txt,0,1.7682,12.2628,36.478,28.5714,"docker, github","aws, jenkins, kubernetes, linux, terraform",1.7682,6.4325,17.163,20.5855
+resume_06,job_04,resume_06.txt,job_04.txt,0,5.308,27.6858,39.3288,66.6667,"python, sql",pandas,5.308,15.2537,23.8519,36.6964
+resume_07,job_07,resume_07.txt,job_07.txt,2,42.5174,78.7039,72.2212,100.0,"bert, ner, nlp, python, pytorch, spacy, transformers",,42.5174,58.6003,63.4649,74.4254
+resume_07,job_02,resume_07.txt,job_02.txt,1,10.2584,45.6239,46.5258,37.5,"nlp, python, pytorch","computer vision, machine learning, numpy, pandas, tensorflow",10.2584,25.9764,33.3155,34.5709
+resume_07,job_09,resume_07.txt,job_09.txt,1,4.3233,23.0727,37.3159,20.0,python,"machine learning, numpy, pandas, sql",4.3233,12.6564,21.4633,21.0243
+resume_07,job_06,resume_07.txt,job_06.txt,0,2.8189,36.6481,14.0461,11.1111,python,"django, docker, fastapi, flask, git, postgresql, redis, sql",2.8189,17.8541,16.4941,14.8792
+resume_07,job_03,resume_07.txt,job_03.txt,0,0.0,18.838,9.3445,0.0,,"css, git, html, javascript, react, rest api, typescript",0.0,8.3724,8.7196,6.1037
+resume_08,job_08,resume_08.txt,job_08.txt,2,35.3466,54.0413,74.4897,83.3333,"git, java, junit, selenium, sql",python,35.3466,43.6554,54.6676,63.2673
+resume_08,job_01,resume_08.txt,job_01.txt,1,14.6466,49.8991,54.7434,40.0,"git, java, mysql, sql","authentication, docker, postgresql, spring, spring boot, unit testing",14.6466,30.3144,39.039,39.3273
+resume_08,job_05,resume_08.txt,job_05.txt,1,7.8549,16.4828,39.5732,28.5714,"github, jenkins","aws, docker, kubernetes, linux, terraform",7.8549,11.6895,21.648,23.725
+resume_08,job_03,resume_08.txt,job_03.txt,0,11.6992,30.3128,32.6418,14.2857,git,"css, html, javascript, react, rest api, typescript",11.6992,19.9719,24.4969,21.4335
+resume_08,job_07,resume_08.txt,job_07.txt,0,1.441,21.6103,21.8946,0.0,,"bert, ner, nlp, python, pytorch, spacy, transformers",1.441,10.4051,14.5085,10.156
+resume_09,job_09,resume_09.txt,job_09.txt,2,47.6314,75.5429,73.7273,100.0,"machine learning, numpy, pandas, python, sql",,47.6314,60.0366,64.9261,75.4483
+resume_09,job_02,resume_09.txt,job_02.txt,1,20.2539,62.6066,55.3174,50.0,"machine learning, numpy, pandas, python","computer vision, nlp, pytorch, tensorflow",20.2539,39.0773,44.8773,46.4141
+resume_09,job_04,resume_09.txt,job_04.txt,1,17.1926,38.7289,45.9813,100.0,"pandas, python, sql",,17.1926,26.7643,33.6275,53.5392
+resume_09,job_01,resume_09.txt,job_01.txt,0,1.4534,22.6359,21.5473,20.0,"mysql, sql","authentication, docker, git, java, postgresql, spring, spring boot, unit testing",1.4534,10.8678,14.6819,16.2773
+resume_09,job_10,resume_09.txt,job_10.txt,0,0.0,28.1831,16.7715,0.0,,"css, docker, express, express.js, git, html, javascript, jwt, mongodb, node, node.js, react",0.0,12.5258,14.0421,9.8295
+resume_10,job_10,resume_10.txt,job_10.txt,2,57.7079,75.3156,72.0888,100.0,"css, docker, express, express.js, git, html, javascript, jwt, mongodb, node, node.js, react",,57.7079,65.5336,67.8747,77.5123
+resume_10,job_03,resume_10.txt,job_03.txt,1,18.916,48.9303,54.5659,71.4286,"css, git, html, javascript, react","rest api, typescript",18.916,32.2557,40.2236,49.5851
+resume_10,job_06,resume_10.txt,job_06.txt,1,11.6505,27.8088,44.6509,22.2222,"docker, git","django, fastapi, flask, postgresql, python, redis, sql",11.6505,18.832,28.053,26.3038
+resume_10,job_05,resume_10.txt,job_05.txt,0,1.6549,15.0865,34.7161,28.5714,"docker, github","aws, jenkins, kubernetes, linux, terraform",1.6549,7.6245,17.3001,20.6815
+resume_10,job_09,resume_10.txt,job_09.txt,0,0.0,11.8431,34.5236,0.0,,"machine learning, numpy, pandas, python, sql",0.0,5.2636,15.7136,10.9995

@@ -1,0 +1,6 @@
+Candidate: Vikram Das
+Profile: NLP engineer focused on information extraction and language models.
+Skills: Python, NLP, spaCy, NER, Transformers, BERT, Sentence-BERT, Hugging Face, PyTorch, scikit-learn, text classification, embeddings.
+Experience: Built NLP pipelines for entity extraction, semantic similarity and document classification.
+Projects: Resume parser using spaCy NER; semantic document matching using Sentence-BERT.
+Education: M.Tech AI.

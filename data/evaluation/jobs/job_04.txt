@@ -1,0 +1,2 @@
+Role: Data Analyst
+Requirements: SQL, Python, Pandas, Excel, Power BI or Tableau, statistics and data visualization.

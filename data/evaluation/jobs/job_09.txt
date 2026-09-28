@@ -1,0 +1,2 @@
+Role: Data Scientist
+Requirements: Python, Pandas, NumPy, Scikit-learn, statistics, machine learning, SQL, feature engineering and model evaluation.

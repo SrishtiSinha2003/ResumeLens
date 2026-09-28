@@ -1,0 +1,6 @@
+Candidate: Kabir Singh
+Profile: DevOps and cloud-focused software engineer.
+Skills: AWS, Docker, Kubernetes, Linux, Terraform, Jenkins, GitHub Actions, CI/CD, Bash, Python, monitoring.
+Experience: Automated deployments, maintained CI/CD pipelines and containerized services.
+Projects: Kubernetes deployment pipeline; AWS infrastructure automation with Terraform.
+Education: B.Tech IT.

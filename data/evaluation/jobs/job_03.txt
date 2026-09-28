@@ -1,0 +1,2 @@
+Role: Frontend Developer
+Requirements: JavaScript or TypeScript, React, HTML, CSS, responsive UI, Git. REST API integration preferred.

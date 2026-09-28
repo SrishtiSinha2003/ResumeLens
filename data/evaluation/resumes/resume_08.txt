@@ -1,0 +1,6 @@
+Candidate: Priya Nair
+Profile: QA automation engineer.
+Skills: Java, Selenium, TestNG, JUnit, REST Assured, Postman, API testing, SQL, Git, Jenkins, CI/CD.
+Experience: Designed automated UI/API tests, maintained regression suites and validated REST services.
+Projects: Automated testing framework for a banking web application.
+Education: B.Tech Computer Science.

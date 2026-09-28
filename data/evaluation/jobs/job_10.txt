@@ -1,0 +1,2 @@
+Role: Full Stack JavaScript Developer
+Requirements: JavaScript, React, Node.js, Express.js, MongoDB, REST APIs, HTML, CSS, Git. JWT and Docker preferred.

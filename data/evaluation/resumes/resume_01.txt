@@ -1,0 +1,6 @@
+Candidate: Aarav Mehta
+Profile: Java backend software engineer.
+Skills: Java, Spring Boot, REST APIs, Hibernate, MySQL, PostgreSQL, Redis, Docker, Git, JUnit.
+Experience: Built REST APIs, JWT authentication, database integrations, Redis caching and unit tests.
+Projects: E-commerce order management backend; distributed order service with PostgreSQL and Redis.
+Education: B.Tech Computer Science.

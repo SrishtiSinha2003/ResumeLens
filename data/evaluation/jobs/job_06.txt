@@ -1,0 +1,2 @@
+Role: Python Backend Developer
+Requirements: Python, Django or FastAPI or Flask, REST APIs, SQL/PostgreSQL, Redis, Docker, Git.

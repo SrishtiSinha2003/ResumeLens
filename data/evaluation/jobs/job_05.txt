@@ -1,0 +1,2 @@
+Role: DevOps Engineer
+Requirements: AWS, Docker, Kubernetes, Linux, Terraform, CI/CD, Jenkins or GitHub Actions, scripting.

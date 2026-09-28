@@ -1,0 +1,2 @@
+Role: Machine Learning Engineer
+Requirements: Python, NumPy, Pandas, Scikit-learn, PyTorch or TensorFlow, machine learning, model evaluation. NLP or computer vision is a plus.
